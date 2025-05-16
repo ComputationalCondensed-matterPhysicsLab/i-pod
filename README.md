@@ -1,2 +1,2 @@
-# I-POD
+# I-pod
 Incheon Package of real-time Operating on DFT (Density Functional Theory)
